@@ -482,7 +482,7 @@ namespace EmployeeDB {
 			this->Controls->Add(this->panel2);
 			this->Controls->Add(this->panel1);
 			this->Name = L"MyForm";
-			this->Text = L"MyForm";
+			this->Text = L"EmployeeDB";
 			this->panel1->ResumeLayout(false);
 			this->panel1->PerformLayout();
 			this->panel2->ResumeLayout(false);
