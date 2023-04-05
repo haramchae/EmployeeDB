@@ -1,7 +1,6 @@
 # EmployeeDB
 
 C++ Employee Datebase Management Application
-
 Screen shot
 ![DB](https://user-images.githubusercontent.com/93884960/217077923-90a2edbd-81d5-4f0b-abd9-dca308ed86da.PNG)
 
@@ -15,3 +14,4 @@ Features
 * Clear the textbox
 * Refresh the search box
 * Exit the application
+
